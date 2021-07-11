@@ -27,7 +27,7 @@ For Frontware to force a bypass, because it does not control the flow by calling
 The above diagram is an oversimplification.  The reality looks more like this:
 ![Layered App](about/LA_request_response_flow_variance.png?raw=true "Layered App")
 
-Here you can see that the resopnse is forwarded to the core from the frontware.
+Here you can see that the response is forwarded to the core from the frontware.
 
 
 ### Coreware
