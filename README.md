@@ -23,7 +23,7 @@ __ExitResponseInterface__
 For Frontware to force a bypass, because it does not control the flow by calling next, it must return a special response implementing ExitResponseInterface.  It does this through the app factory `$app->createExitResponse`, which is just like `createResponse`.
 
 
-### Request And Control FLow
+### Request And Response Flow
 The above diagram is an oversimplification.  The reality looks more like this:
 ![Layered App](about/LA_request_response_flow_variance.png?raw=true "Layered App")
 
