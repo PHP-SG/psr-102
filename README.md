@@ -1,4 +1,4 @@
-==== This is not a FIG PSR and has not undergone the rigorous process to become one ====
+This standard has been replaced with [https://github.com/PHP-SG/sr-2](https://github.com/PHP-SG/sr-2).
 
 # PSR 102 App Standardization
 
